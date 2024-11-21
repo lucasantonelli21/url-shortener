@@ -22,7 +22,7 @@ O intuito do curso era criar uma aplicação backend java serverless. Foram util
 
   OriginalUrl: O URL que deseja encurtar.
   
-  ExpirationTime: a data de expiração do link desejado em convertida em Timestamp.
+  ExpirationTime: a data de expiração do link desejado convertida em Timestamp.
 
 [Link para converter data](https://www.epochconverter.com/)
 
