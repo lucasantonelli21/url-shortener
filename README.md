@@ -5,7 +5,7 @@
 Aplicação desenvolvida no curso gratuito de Java da RocketSeat.
 O intuito do curso era criar uma aplicação backend java serverless. Foram utilizados as tecnologias Lambda, E3 e API Gateway da AWS.
 
-### Arquitetura
+### Modelo
 
 ![image](https://github.com/user-attachments/assets/47c39656-02da-4c80-a7c2-af3b1f971761)
 
