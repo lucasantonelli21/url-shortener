@@ -2,10 +2,8 @@
 
 
 
-## Aplicação desenvolvida no curso gratuito de Java da RocketSeat
-O intuito do curso era criar uma aplicação backend java serverless.
-
-Foram utilizados as tecnologias Lambda, E3 e API Gateway da AWS.
+Aplicação desenvolvida no curso gratuito de Java da RocketSeat.
+O intuito do curso era criar uma aplicação backend java serverless. Foram utilizados as tecnologias Lambda, E3 e API Gateway da AWS.
 
 ### Arquitetura
 
@@ -22,15 +20,17 @@ Foram utilizados as tecnologias Lambda, E3 e API Gateway da AWS.
 
 ![image](https://github.com/user-attachments/assets/f43fdd79-0ddd-458b-9146-bbbc1b696800)
 
-OriginalUrl: O URL que deseja encurtar.
-ExpirationTime: a data de expiração do link desejado em convertida em Timestamp.
+  OriginalUrl: O URL que deseja encurtar.
+  
+  ExpirationTime: a data de expiração do link desejado em convertida em Timestamp.
 
 [Link para converter data](https://www.epochconverter.com/)
 
 * Após realizar a requisição, será retornado ao usuário o codigo daquele link.
 
 
-### Para acessar um link previamente encurtado, deve ser colocado no navegador o URL da aplicação acrescido de "/codigo-do-url"
+* Para acessar um link previamente encurtado, deve ser colocado no navegador o URL da aplicação acrescido de "/codigo-do-url"
 
 Exemplo: 
+
 ![image](https://github.com/user-attachments/assets/8e2bfbe5-4363-4df4-ba36-8ad789959b0f)
